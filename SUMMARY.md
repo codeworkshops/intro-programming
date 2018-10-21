@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
+* [Introduction](introduction.md)
+* [What is Programming?](what-is-programming.md)
+* [FAQ](faq.md)
 
