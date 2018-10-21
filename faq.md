@@ -10,5 +10,5 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 
 ## Third Question
 
-Answer to the third question.
+Answer to the third question. More info here.
 
