@@ -4,6 +4,7 @@
 
 
 hosted on Gitbook
+  <https://codeworkshops.gitbook.io/intro-programming/>
 
 Becoming a super hero is a fairly straight forward process:
 
