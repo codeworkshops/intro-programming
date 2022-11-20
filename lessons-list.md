@@ -1,14 +1,14 @@
 # A list of Lessons
 
-- Introduction to Python
-- Variables
-- Operators 
-- Strings 
-- Conditionals
-- Functions - Part 1
-- Loops
-- Collections
-- Functions - Part 2
-- Modules
-- Files
-- Exception Handling
+1. Introduction to Python
+2. Variables
+3. Operators 
+4. Strings 
+5. Conditionals
+6. Functions - Part 1
+6. Loops
+6. Collections
+6. Functions - Part 2
+6. Modules
+6. Files
+6. Exception Handling
