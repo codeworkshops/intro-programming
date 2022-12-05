@@ -1,6 +1,5 @@
 # Overview
 
-
 ## Introduction to Programming
 
 
@@ -26,8 +25,6 @@ echo 'You got to trust me on this, I saved the world'
 
 Page edit here.
 
-Edit on Github on Nov 20, 2022
-Edit on Github on Oct 23, 2019.
-
+Last Update: Dec 4, 2022
 
 
