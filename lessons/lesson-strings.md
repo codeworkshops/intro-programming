@@ -1,6 +1,6 @@
 # Strings Lesson Plan
 
-Here is a possible lesson plan for learning about strings in Python:
+A lesson plan for learning about strings in Python:
 
 1. Begin the lesson by introducing the concept of a string. Explain that a string is a data type in Python that is used to represent text.
 
@@ -16,4 +16,4 @@ Here is a possible lesson plan for learning about strings in Python:
 
 1. End the lesson with a brief quiz or practice exercises to assess students' understanding of the material. Encourage students to continue practicing with strings in Python, using the techniques and methods covered in the lesson.
 
-courtesy chatgpt
+
